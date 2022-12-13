@@ -21,6 +21,5 @@ public class BestBuyApp {
     @Test
     void validateCard(){
 
-        WebElement basket
     }
 }

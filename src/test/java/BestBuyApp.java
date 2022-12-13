@@ -20,6 +20,6 @@ public class BestBuyApp {
     @Test
     void validateCard(){
 
-        driver.findElement()
-    }git remote add origin
+        driver.findElement(KATYA)
+    }
 }

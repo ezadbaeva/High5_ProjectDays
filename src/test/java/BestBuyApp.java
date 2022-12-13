@@ -20,6 +20,6 @@ public class BestBuyApp {
     @Test
     void validateCard(){
 
-        driver.findElement(KATYA)
+        driver.findElement(diana)
     }
 }
